@@ -1,3 +1,3 @@
-a = "Hello, world"
+a=input()
 for i in a:
-    print(i,end=",")
+    print(i)
